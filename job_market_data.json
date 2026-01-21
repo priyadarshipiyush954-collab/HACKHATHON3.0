@@ -1,0 +1,53 @@
+{
+  "required_skills": [
+    "Python",
+    "JavaScript",
+    "Machine Learning",
+    "Data Analysis",
+    "SQL",
+    "Cloud Computing",
+    "Agile Methodologies",
+    "DevOps",
+    "Artificial Intelligence",
+    "Blockchain",
+    "Communication",
+    "Critical Thinking",
+    "Problem Solving",
+    "Teamwork"
+  ],
+  "career_paths": {
+    "Data Scientist": {
+      "required_skills": [
+        "Python",
+        "Machine Learning",
+        "Data Analysis",
+        "SQL"
+      ],
+      "salary_range": "$80,000 - $150,000",
+      "growth_rate": "High",
+      "education": "Bachelor's or Master's in Computer Science, Statistics, or related field"
+    },
+    "Web Developer": {
+      "required_skills": [
+        "JavaScript",
+        "HTML/CSS",
+        "React",
+        "Node.js"
+      ],
+      "salary_range": "$70,000 - $120,000",
+      "growth_rate": "Medium",
+      "education": "Bachelor's in Computer Science or self-taught with portfolio"
+    },
+    "AI Engineer": {
+      "required_skills": [
+        "Python",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Deep Learning"
+      ],
+      "salary_range": "$90,000 - $160,000",
+      "growth_rate": "Very High",
+      "education": "Master's or PhD in Computer Science or related field"
+    }
+  }
+}
